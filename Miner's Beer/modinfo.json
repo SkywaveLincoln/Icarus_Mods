@@ -1,0 +1,16 @@
+{
+  "mods": [
+    {
+      "name": "Miner's Beer",
+      "author": "Skywave",
+      "version": "1.0",
+      "compatibility": "w167",
+      "description": "Changes the Beer modifiers to grant 50% additional yield from mining",
+      "files": {
+        "exmodz": "https://github.com/SkywaveLincoln/Icarus_Mods/blob/main/Miner's%20Beer/Miner's%20Beer.EXMOD"
+      },
+      "imageURL": "",
+      "readmeURL": "https://github.com/SkywaveLincoln/Icarus_Mods/blob/main/Miner's%20Beer/Readme.txt"
+    }
+  ]
+}
