@@ -1,0 +1,28 @@
+{
+    "name": "Miner's Beer",
+    "author": "Skywave",
+    "version": "1.0",
+    "week": "",
+    "description": "The double-vision of beer goggles is now a reality. Almost.",
+    "fileName": "Miner's Beer",
+    "readmeURL": "",
+    "imageURL": "",
+    "Level2": "True",
+    "Rows": [
+        {
+            "CurrentFile": "Modifiers-D_ModifierStates.json",
+            "File_Items": [
+                {
+                    "Name": "Beer",
+                    "ModifierDescription": "NSLOCTEXT(\"D_ModifierStates\", \"Beer-ModifierDescription\", \"Boosts max stamina and regeneration. Increases mining rewards\")",
+                    "GrantedStats": {
+                        "(Value=\"BaseStaminaRegen_+%\")": 100,
+                        "(Value=\"BaseMaximumStamina_+\")": 125,
+                        "(Value=\"BaseFoodStomachSlots_+\")": 1,
+                        "(Value=\"BaseMiningRewards_%\")": 50
+                    }
+                }
+            ]
+        }
+    ]
+}
