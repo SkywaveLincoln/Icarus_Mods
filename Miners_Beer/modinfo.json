@@ -11,6 +11,18 @@
       },
       "imageURL": "",
       "readmeURL": "https://github.com/SkywaveLincoln/Icarus_Mods/raw/refs/heads/main/Miners_Beer/Readme.txt"
+    },
+    {
+      "name": "Got-Milk",
+      "author": "Skywave",
+      "version": "1.0",
+      "compatibility": "w167",
+      "description": "Increases the milk bottle size to hold a gallon, and the milk pail to hold 3 gallons of delicious goodness",
+      "files": {
+        "exmodz": "https://github.com/SkywaveLincoln/Icarus_Mods/raw/refs/heads/main/Got-Milk/Got-Milk.EXMODZ"
+      },
+      "imageURL": "",
+      "readmeURL": "https://github.com/SkywaveLincoln/Icarus_Mods/raw/refs/heads/main/Got-Milk/Readme.txt"
     }
   ]
 }
